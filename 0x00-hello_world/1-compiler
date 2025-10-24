@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author: Bethel Amadi
+# Program: WinMingle Community C Training
+# Description: Compiles a C file but does not link
+
+gcc -c "$CFILE" -o "${CFILE%.*}.o"
+

@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author: Bethel Amadi
+# Program: WinMingle Community C Training
+# Description: Generates assembly code (Intel syntax) from a C file
+
+gcc -S -masm=intel "$CFILE" -o "${CFILE%.*}.s"
+

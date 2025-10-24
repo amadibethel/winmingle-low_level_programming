@@ -1,0 +1,7 @@
+#!/bin/bash
+# Author: Bethel Amadi
+# Program: WinMingle Community C Training
+# Description: Generates the assembly code of a C file
+
+gcc -S "$CFILE" -o "${CFILE%.*}.s"
+
