@@ -1,6 +1,7 @@
 # 0x03-debugging
 
 ## WinMingle Community Software Engineering Training Program
+
 **Module 1.4: C Programming — Debugging and Code Correction**  
 **Instructor:** Greenfield Adolphus  
 **Department:** WinMingle Community Software Engineering Program  

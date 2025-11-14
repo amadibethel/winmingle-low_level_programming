@@ -1,6 +1,6 @@
 # 0x06. C - Pointers, Arrays & Strings
 
-## 📘 WinMingle Community Software Engineering Training Program
+## WinMingle Community Software Engineering Training Program
 **Module 1.6: C Programming — Pointers, Arrays & Strings**  
 **Instructor:** Greenfield Adolphus  
 **Department:** WinMingle Community Software Engineering Program  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 Learning Objectives
+## Learning Objectives
 
 At the end of this project, you should be able to explain:
 - What are pointers and how to use them  
@@ -20,7 +20,7 @@ At the end of this project, you should be able to explain:
 
 ---
 
-## ⚙️ Compilation
+## Compilation
 
 All programs and functions are compiled on **Ubuntu 20.04 LTS** using:
 ```bash

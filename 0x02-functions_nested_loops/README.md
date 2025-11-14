@@ -1,12 +1,15 @@
 # WinMingle Software Engineering Training  
+
 ## Project: Functions & Nested Loops  
 
-### 👨‍🏫 Instructor
+### Instructor
+
 **Greenfield Adolphus**
 
 ---
 
-### 🧾 Overview
+### Overview
+
 This project explores **functions**, **loops**, and **conditional logic** in C programming.  
 You will learn how to break code into reusable components, manage flow control, and produce output using `_putchar` without relying on the standard library I/O functions.
 
@@ -20,7 +23,8 @@ By the end of this project, you should understand how to:
 
 ---
 
-### ⚙️ General Requirements
+### General Requirements
+
 - **Editors allowed:** `vi`, `vim`, `emacs`
 - **Operating System:** Ubuntu 20.04 LTS
 - **Compiler:** `gcc`
