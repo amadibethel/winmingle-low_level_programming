@@ -1,12 +1,14 @@
 
-# 0x07 - Pointers, Arrays & Strings  
+# 0x07 - Pointers, Arrays & Strings
+
 WinMingle Community — Low Level Programming
 
 This project covers advanced concepts in C relating to pointer-to-pointer usage, 
 multidimensional arrays, and re-implementing common C standard library functions.  
 All code is written following strict C89/gnu89 compilation rules.
 
-## 📌 Learning Objectives
+## Learning Objectives
+
 By the end of this project, you should be able to explain:
 - What pointers to pointers are and how to use them
 - How multidimensional arrays are stored in memory
@@ -14,7 +16,8 @@ By the end of this project, you should be able to explain:
 - How to re-implement standard string-manipulation routines
 - Variable scope in pointer and array operations
 
-## 🛠 Requirements
+## Requirements
+
 - Allowed editors: `vi`, `vim`, `emacs`
 - Compiled on **Ubuntu 20.04 LTS** using:
 - No global variables
@@ -24,9 +27,9 @@ By the end of this project, you should be able to explain:
 - `_putchar` is allowed
 - All prototypes must appear in **main.h**
 
-## 📁 Project Structure
+## Project Structure
 
-[A[A[C[C[C[C[B[B[D[Dwinmingle-low_level_programming/
+winmingle-low_level_programming/
 └── 0x07-pointers_arrays_strings/
 ├── README.md
 ├── main.h
